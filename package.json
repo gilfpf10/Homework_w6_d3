@@ -1,0 +1,14 @@
+{
+  "name": "jp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dino.js",
+  "scripts": {
+    "test": "mocha specs"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
